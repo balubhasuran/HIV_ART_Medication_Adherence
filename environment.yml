@@ -1,0 +1,21 @@
+name: hiv_art_adherence
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - scipy
+  - statsmodels
+  - jupyter
+  - notebook
+  - xgboost
+  - lightgbm
+  - shap
+  - tensorflow
+  - pip
+  - pip:
+      - imbalanced-learn
