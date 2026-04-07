@@ -1,0 +1,12 @@
+# Data Foundations
+numpy>=2.2.0
+pandas>=2.3.0
+matplotlib>=3.10.0
+
+# Machine Learning & Pipelines
+scikit-learn>=1.6.0
+xgboost>=2.1.0
+lightgbm>=4.5.0
+
+# Deep Learning
+torch>=2.6.0
