@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Data files
+data/raw/*
+!data/raw/README.md
+
+data/processed/*
+!data/processed/README.md
+
+data/external/*
+!data/external/README.md
+
+# Outputs
+outputs/models/*
+!outputs/models/README.md
+
+outputs/figures/*
+!outputs/figures/README.md
+
+outputs/tables/*
+!outputs/tables/README.md
+
+# Misc
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
