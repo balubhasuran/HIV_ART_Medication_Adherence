@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Machine Learning–Based Prediction of Antiretroviral Therapy Adherence in Young Adults With HIV Using Longitudinal Clinical and Social Determinants of Health Data"
+message: "If you use this repository, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: "Bhasuran"
+    given-names: "Balu"
+  - family-names: "Hall"
+    given-names: "Amy"
+  - family-names: "Addo"
+    given-names: "Prince"
+  - family-names: "Liu"
+    given-names: "Yiyang"
+  - family-names: "MacDonell"
+    given-names: "Karen"
+  - family-names: "Naar"
+    given-names: "Sylvie"
+  - family-names: "He"
+    given-names: "Zhe"
+date-released: 2026-04-07
+repository-code: "https://github.com/balubhasuran/HIV_ART_Medication_Adherence"
+license: "MIT"
